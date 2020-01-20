@@ -1,0 +1,36 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Deniz\Desktop\New_408\server\server\bin\Debug\server.exe.config
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.exe
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.pdb
+C:\Users\Deniz\Desktop\New_408\server\server\bin\Debug\server.exe
+C:\Users\Deniz\Desktop\New_408\server\server\bin\Debug\server.pdb
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.Form1.resources
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Deniz\Desktop\New_408\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\bin\Debug\server.exe.config
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\bin\Debug\server.exe
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\bin\Debug\server.pdb
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.Form1.resources
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.Properties.Resources.resources
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.exe
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.pdb
+G:\Sabanci University Classes\302\CS408\Second_Phase\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.exe
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.Form1.resources
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Deniz\Desktop\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\Deniz\Desktop\server\server\bin\Debug\server.exe
+C:\Users\Deniz\Desktop\server\server\bin\Debug\server.pdb

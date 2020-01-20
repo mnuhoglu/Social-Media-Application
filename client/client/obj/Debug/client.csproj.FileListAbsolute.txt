@@ -1,0 +1,45 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.Form1.resources
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.exe
+C:\Users\Deniz\Desktop\New_408\client\client\obj\Debug\client.pdb
+C:\Users\Deniz\Desktop\New_408\client\client\bin\Debug\client.exe.config
+C:\Users\Deniz\Desktop\New_408\client\client\bin\Debug\client.exe
+C:\Users\Deniz\Desktop\New_408\client\client\bin\Debug\client.pdb
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\bin\Debug\client.exe.config
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.exe
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.pdb
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\bin\Debug\client.exe
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\bin\Debug\client.pdb
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.Form1.resources
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.Properties.Resources.resources
+G:\Sabanci University Classes\302\CS408\Final_Submission_1\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\bin\Debug\client.exe.config
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.exe
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.pdb
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.Form1.resources
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.Properties.Resources.resources
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\bin\Debug\client.exe
+G:\Sabanci University Classes\302\CS408\Final_Submission_1_Fixed_Errors\client\client\bin\Debug\client.pdb
+C:\Users\Deniz\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.exe
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.pdb
+C:\Users\Deniz\Desktop\client\client\bin\Debug\client.exe
+C:\Users\Deniz\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.Form1.resources
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Deniz\Desktop\client\client\obj\Debug\client.csproj.GenerateResource.Cache
